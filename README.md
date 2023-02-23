@@ -12,6 +12,9 @@ Provides a single default class export `Primitives` with no external dependencie
 
 `npm run lint`
 
+## Version History
+
+See [Version History](./VERSIONS.md)
 
 ## Licensing
 

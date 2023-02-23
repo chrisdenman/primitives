@@ -1,5 +1,5 @@
 import {describe, expect, it} from '@jest/globals';
-import Primitives from "../src/primitives";
+import Primitives from "../src/primitives.js";
 
 describe("Primitives Tests", () => {
 
