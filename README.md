@@ -1,4 +1,4 @@
-# Primitives 1.0.0
+# Primitives 1.0.2
 
 A JavaScript primitive helper class.
 
